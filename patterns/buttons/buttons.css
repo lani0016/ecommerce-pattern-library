@@ -1,0 +1,10 @@
+.btn {
+  background-color: var(--color-secondary);
+  border-color: var(--color-secondary);
+  color: var(--colour-neutral-beige);
+}
+
+.btn:hover {
+  background-color: var(--colour-primary-light);
+  border-color: var(--color-primary-light);
+}

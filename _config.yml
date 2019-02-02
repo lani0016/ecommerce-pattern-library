@@ -1,4 +1,21 @@
 permalink: pretty
 theme: jekyll_patternbot
 patternbot:
+  title: "Free as a Bird"
+  description: |
+    An eCommerce website specializing in colourful and well versed Cancer care items and kits. This disease sucks; your care shouldn't have too!
   font_url: "https://fonts.googleapis.com/css?family=Cubano+Sans:400,400i,700|Source+Code+Pro:400,700"
+  colors:
+    background: "--color-secondary-light"
+    accent: "--color-primary-dark"
+  patterns:
+    brand.logos: "--color-primary-light"
+  rationales:
+    typefaces.primary: |
+      Cubano was chosen because it is a bold font that has a lot of energy for titles and sub titles.
+    typefaces.secondary: |
+      Adobe Calson was chosen for the secondary typeface because it is a thiner, more delicate font that pairs well with the more overpowering Cubano titles.
+    colors.primary: |
+      The primary colour choice for my website symbolizes the sky and how much energy a blue sky could give a person while they are sick.
+    colors.secondary: |
+    The secondary colours for my website are chosen to contrast the primary colour while vibrating nicely to the eye and continue giving off a more high energy profile to show that our products are here in order to help our clients regain their energy levels.

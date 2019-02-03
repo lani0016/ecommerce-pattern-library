@@ -1,11 +1,11 @@
 .btn {
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary-dark);
   border-color: var(--color-secondary);
-  color: var(--colour-neutral-beige);
+  color: var(--color-secondary);
 }
 
 .btn:hover {
-  background-color: var(--colour-primary-light);
+  background-color: var(--color-primary-light);
   border-color: var(--color-primary-light);
 }
 
@@ -15,13 +15,13 @@
 }
 
 .btn-ghost:hover {
-  color: var(--colour-neutral-beige);
+  color: var(--color-neutral-beige);
 }
 
 .btn-light {
   background-color: var(--color-accent);
   border-color: var(--color-accent);
-  color: var(--colour-neutral-beige);
+  color: var(--color-neutral-beige);
 }
 
 .btn:hover {

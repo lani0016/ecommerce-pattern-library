@@ -6,10 +6,10 @@ patternbot:
     An eCommerce website specializing in colourful and well versed Cancer care items and kits. This disease sucks; your care shouldn't have too!
   font_url: "https://fonts.googleapis.com/css?family=Cubano+Sans:400,400i,700|Source+Code+Pro:400,700"
   colors:
-    background: "--color-secondary-light"
-    accent: "--color-primary-dark"
+    background: "--color-primary"
+    accent: "--color-secondary"
   patterns:
-    brand.logos: "--color-primary-light"
+    brand.logos: "--color-neutral-beige"
   rationales:
     typefaces.primary: |
       Cubano was chosen because it is a bold font that has a lot of energy for titles and sub titles.

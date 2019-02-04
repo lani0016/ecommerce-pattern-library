@@ -24,7 +24,7 @@
   color: var(--color-neutral-beige);
 }
 
-.btn:hover {
+.btn-light:hover {
   background-color: var(--color-whatever);
   border-color: var(--color-primary-light);
 }

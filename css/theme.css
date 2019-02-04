@@ -6,7 +6,7 @@
   --color-secondary-light: #235399;
   --color-accent: #682850;
   --color-neutral-beige: #e2e2e2;
-  --color-whatever: #cc3b9c;
+  --color-accent-light: #cc3b9c;
 
   --font-primary: "Cubano", "Roboto Sans", Arial, sans-serif;
   --font-secondary: "Adobe Caslon", serif;
@@ -14,4 +14,12 @@
 
 html{
   font-family: var(--font-primary);
+}
+
+mark {
+  background-color: var(--color-primary-light);
+}
+
+a {
+  color: var(--color-accent);
 }

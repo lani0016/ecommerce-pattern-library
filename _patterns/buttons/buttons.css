@@ -5,8 +5,8 @@
 }
 
 .btn:hover {
-  background-color: var(--color-primary-light);
   border-color: var(--color-primary-light);
+  color: var(--color-primary-light);
 }
 
 .btn-ghost {
@@ -15,7 +15,9 @@
 }
 
 .btn-ghost:hover {
-  color: var(--color-neutral-beige);
+  background-color: transparent;
+  color: var(--color-accent);
+  border-color: var(--color-accent-light)
 }
 
 .btn-light {
@@ -27,4 +29,27 @@
 .btn-light:hover {
   background-color: var(--color-whatever);
   border-color: var(--color-primary-light);
+}
+
+.btn-info {
+  background-color: transparent;
+  color: var(--color-secondary);
+}
+
+.btn-info:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-neutral-beige);
+}
+
+.btn-cart {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-secondary);
+  color: var(--color-secondary);
+}
+
+.btn-cart:hover {
+  background-color: var(--color-accent-light);
+  border-color: var(--color-secondary);
+  color: var(--color-neutral-beige);
 }

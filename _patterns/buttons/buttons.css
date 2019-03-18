@@ -5,6 +5,7 @@
 }
 
 .btn:hover {
+  background-color: var(--color-neutral-beige)
   border-color: var(--color-primary-light);
   color: var(--color-primary-light);
 }
@@ -27,7 +28,7 @@
 }
 
 .btn-light:hover {
-  background-color: var(--color-whatever);
+  background-color: var(--color-accent-light);
   border-color: var(--color-primary-light);
 }
 
@@ -52,9 +53,4 @@
   background-color: var(--color-accent-light);
   border-color: var(--color-secondary);
   color: var(--color-neutral-beige);
-}
-
-svg {
-  width: 40%;
-  height: 20%;
 }

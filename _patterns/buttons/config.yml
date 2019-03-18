@@ -28,3 +28,17 @@ patterns:
     description: |
       The cart button is specifically for item cards where it will be placed below product images and be placed on the right side of the "info" cards as well as under the images inside of the product description card, below the price and quantity selectors.
     width: "12em"
+  submit:
+    title: "submit"
+    description: |
+      The submit button is specifically for pages where it will be placed below the text feilds and checkout forms.
+    width: "12em"
+  cancel:
+    title: "cancel"
+    description: |
+      The cancel button is a general button for use where any option to exit a page or section is necessary.
+    width: "12em"
+  View-cart:
+    title: " View Cart"
+    description: |
+      The view cart button is specifically for viewing items in your cart it will be placed on the right most side of the header

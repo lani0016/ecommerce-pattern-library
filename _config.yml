@@ -19,3 +19,6 @@ patternbot:
       The primary colour choice for my website symbolizes the sky and how much energy a blue sky could give a person while they are sick.
     colors.secondary: |
       The secondary colours for my website are chosen to contrast the primary colour while vibrating nicely to the eye and continue giving off a more high energy profile to show that our products are here in order to help our clients regain their energy levels.
+  layouts:
+    default: |
+      The default layout should be used on nearly every page, as it contains the header and footer information for the website.

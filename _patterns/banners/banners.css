@@ -1,0 +1,21 @@
+.home-banner {
+  color: #fff;
+  text-stroke: var(--color-secondary);
+  text-align: center;
+}
+
+.tp-banner-nav {
+  color: #fff;
+  text-decoration: none;
+}
+
+.tp-banner-nav:hover {
+  background-color: var(--color-accent);
+  border: 4px solid;
+  border-radius: 8px;
+
+}
+
+.hpb-img {
+  max-height: 300px;
+}

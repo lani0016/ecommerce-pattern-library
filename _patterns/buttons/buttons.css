@@ -50,7 +50,6 @@
 }
 
 .btn-cart:hover {
-  background-color: var(--color-accent-light);
+  color: #fefefe;
   border-color: var(--color-secondary);
-  color: var(--color-neutral-beige);
 }

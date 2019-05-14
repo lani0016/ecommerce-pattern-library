@@ -19,3 +19,8 @@
 .hpb-img {
   max-height: 300px;
 }
+
+.current {
+  text-decoration: underline;
+  color: var(--color-accent-light)
+}

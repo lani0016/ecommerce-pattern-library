@@ -1,6 +1,14 @@
-<div class="card">
-  <img class="img-flex" src="/images/CCC.jpg" alt="">
-  <h2>Lavender Kit</h2>
-  <p>A great kit for those who need a little coaksing when it comes to getting those 40 winks a night</p>
-  {% pattern buttons/info %} {% pattern buttons/cart %}
-</div>
+<div class="grid card">
+  <div class="unit xs-1 s-1 m-1-2">
+    <img class="img-flex" src="/images/CCC.jpg" alt="">
+    <h2>Lavender Kit</h2>
+  </div>
+  <div class="grid unit xs-1 s-1 m-1">
+    <div class="unit xs-1 s-1-4 inline">
+      {% pattern buttons/info %}
+    </div>
+      <div class="unit xs-1 s-1-4 inline">
+        {% pattern buttons/cart %}
+      </div>
+    </div>
+  </div>

@@ -12,19 +12,19 @@
     </div>
     <nav class="nav unit xs-1 s-1 m-1 l-3-4">
       <ul class="list-group-inline push-0">
-        <li class="island-1-8">
+        <li class="island-1-8 {% if page.highlight_nav == 'home' %} current{% endif %}">
           <a class="tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="/">Home</a>
         </li>
-        <li class="island-1-8">
-          <a class=" current tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="/products">Products</a>
+        <li class="island-1-8 {% if page.highlight_nav == 'products' %} current{% endif %}">
+          <a class="tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="/products">Products</a>
         </li>
-        <li class="island-1-8">
+        <li class="island-1-8 {% if page.highlight_nav == 'cart' %} current{% endif %}">
           <a class="tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="#">Cart</a>
         </li>
-        <li class="island-1-8">
+        <li class="island-1-8 {% if page.highlight_nav == 'check-out' %} current{% endif %}">
           <a class="tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="#">Check-out</a>
         </li>
-        <li class="island-1-8">
+        <li class="island-1-8 {% if page.highlight_nav == 'about-us' %} current{% endif %}">
           <a class="tp-banner-nav block text-center gutter pad-t-1-4 pad-b-1-4 milli" href="#">About Us</a>
         </li>
       </ul>

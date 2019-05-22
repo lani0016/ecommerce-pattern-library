@@ -1,0 +1,29 @@
+title: "Secondary Navigation"
+description: |
+Secondary navigation is used to remind the user where they are within the website and to direct the user to the next or previous page from their current site location.
+
+patterns:
+  breadcrumb-about-us:
+    title: "breadcrumb for about us"
+    description: |
+    This breadcrumb is used to indicate that the user is on the "about us" page
+  breadcrumb-cart:
+      title: "breadcrumb for cart"
+      description: |
+      This breadcrumb is used to indicate that the user is on the "cart" page
+  breadcrumb-checkout:
+    title: "breadcrumb for checkout"
+    description: |
+    This breadcrumb is used to indicate that the user is on the "checkout" page
+  breadcrumb-prod-page:
+      title: "breadcrumb for product page"
+      description: |
+      This breadcrumb is used to indicate that the user is on the "products" page
+  breadcrumb-prod-page-kit:
+    title: "breadcrumb for product page kits"
+    description: |
+    This breadcrumb is used to indicate that the user is on the "product kit" page
+  next-prev:
+    title: "next & previous page"
+    description: |
+    This secondary navigation is used to guide the user to the next or previous page

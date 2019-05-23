@@ -1,37 +1,37 @@
 title: "Forms"
 description: |
-  Forms should be used in situations where a direct, information dependant action is required.Try not to over use forms because they could frustrate or tire out the user.
+Forms should be used in situations where a direct, information dependant action is required.Try not to over use forms because they could frustrate or tire out the user.
 
 patterns:
   checkbox:
     title: "checkbox"
     description: |
     Checkboxes are for use when an answer to a field can be chosen without elaboration ie; age, gender expression, ect...
-  date:
+    date:
       title: "date"
       description: |
       The date field is used solely for when a date is required ie; birthday, deliver by date ect...
-  email-input:
-    title: "Email Input"
-    description: |
-    This field is used only for when an email is needed during a purchase ie; confirmation of order, to be used to send a receipt ect...
-  province:
-      title: "Province"
-      description: |
-      the province field is used solely for when a general location is required. This feild does not include the postal code.
-  quantity:
-    title: "Quantity"
-    description: |
-    The quantity field is used to deturmine how many of an object is needed in a purchse.
-  radio-buttons:
-    title: "Radio buttons"
-    description: |
-    Radio Buttons are for use when one or multiple answers to a field can be chosen without elaboration ie; customised items, security questions ect...
-  text-feilds:
-    title: "Text Feilds"
-    description: |
-    Text fields are a feild that will hold any other information on the client that cannot be used. This field can be used in everything from a postal code to specific delivery instructions and more.
-  username-password:
-    title: " Username & Password"
-    description: |
-    The username and passowrd feilds are used in tandem to give the user a name and secure password to track their order until delivery.This feild will also be used to allow the user to receive a customised confirmation email once their specific order is placed.
+      email-input:
+        title: "Email Input"
+        description: |
+        This field is used only for when an email is needed during a purchase ie; confirmation of order, to be used to send a receipt ect...
+        province:
+          title: "Province"
+          description: |
+          the province field is used solely for when a general location is required. This feild does not include the postal code.
+          quantity:
+            title: "Quantity"
+            description: |
+            The quantity field is used to deturmine how many of an object is needed in a purchse.
+            radio-buttons:
+              title: "Radio buttons"
+              description: |
+              Radio Buttons are for use when one or multiple answers to a field can be chosen without elaboration ie; customised items, security questions ect...
+              text-feilds:
+                title: "Text Feilds"
+                description: |
+                Text fields are a feild that will hold any other information on the client that cannot be used. This field can be used in everything from a postal code to specific delivery instructions and more.
+                username-password:
+                  title: "Username & Password"
+                  description: |
+                  The username and passowrd feilds are used in tandem to give the user a name and secure password to track their order until delivery.This feild will also be used to allow the user to receive a customised confirmation email once their specific order is placed.

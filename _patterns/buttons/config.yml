@@ -1,6 +1,6 @@
 title: "Buttons"
-  description: |
-    Buttons should be used in situations where a dramatic, obvious action is required.Try not to over use buttons because they should be the primary call-to-action for a screen.
+description: |
+  Buttons should be used in situations where a dramatic, obvious action is required.Try not to over use buttons because they should be the primary call-to-action for a screen.
 
 patterns:
   basic:
@@ -38,7 +38,7 @@ patterns:
     description: |
       The cancel button is a general button for use where any option to exit a page or section is necessary.
     width: "12em"
-  View-cart:
-      title: " View Cart"
-      description: |
-        The view cart button is specifically for viewing items in your cart it will be placed on the right most side of the header
+  view-cart:
+    title: " View Cart"
+    description: |
+      The view cart button is specifically for viewing items in your cart it will be placed on the right most side of the header

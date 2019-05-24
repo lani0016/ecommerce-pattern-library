@@ -1,6 +1,6 @@
 title: "Banners"
-  description: |
-    Banners are used to display information that is consistent across pages. they can be used to unify or differenciate between different types of pages on a website.
+description: |
+  Banners are used to display information that is consistent across pages. they can be used to unify or differenciate between different types of pages on a website.
 
 patterns:
   homepage-banner:

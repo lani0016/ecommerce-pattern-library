@@ -1,6 +1,6 @@
 title: "Forms"
-  description: |
-    Forms should be used in situations where a direct, information dependant action is required.Try not to over use forms because they could frustrate or tire out the user.
+description: |
+  Forms should be used in situations where a direct, information dependant action is required.Try not to over use forms because they could frustrate or tire out the user.
 
 patterns:
   checkbox:

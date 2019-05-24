@@ -5,25 +5,25 @@ title: "Secondary Navigation"
 patterns:
   breadcrumb-about-us:
     title: "breadcrumb for about us"
-      description: |
-      This breadcrumb is used to indicate that the user is on the "about us" page
+    description: |
+    This breadcrumb is used to indicate that the user is on the "about us" page
   breadcrumb-cart:
     title: "breadcrumb for cart"
-      description: |
-        This breadcrumb is used to indicate that the user is on the "cart" page
+    description: |
+      This breadcrumb is used to indicate that the user is on the "cart" page
   breadcrumb-checkout:
     title: "breadcrumb for checkout"
-      description: |
-        This breadcrumb is used to indicate that the user is on the "checkout" page
+    description: |
+      This breadcrumb is used to indicate that the user is on the "checkout" page
   breadcrumb-prod-page:
     title: "breadcrumb for product page"
-      description: |
-        This breadcrumb is used to indicate that the user is on the "products" page
+    description: |
+      This breadcrumb is used to indicate that the user is on the "products" page
   breadcrumb-prod-page-kit:
     title: "breadcrumb for product page kits"
-      description: |
-        This breadcrumb is used to indicate that the user is on the "product kit" page
+    description: |
+      This breadcrumb is used to indicate that the user is on the "product kit" page
   next-prev:
     title: "next & previous page"
-      description: |
-        This secondary navigation is used to guide the user to the next or previous page
+    description: |
+      This secondary navigation is used to guide the user to the next or previous page

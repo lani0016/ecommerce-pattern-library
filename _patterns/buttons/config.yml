@@ -5,39 +5,39 @@ title: "Buttons"
 patterns:
   basic:
     title: "Basic"
-      description: |
-        Default to using the basic button. It should always be used in the front of light backgrounds.
-      width: "12em"
+    description: |
+      Default to using the basic button. It should always be used in the front of light backgrounds.
+    width: "12em"
   ghost:
     title: "Ghost"
-      description: |
-        The ghost button is specifically for banners, where it will be placed in front of busy images.
-      background: "--color-primary-light"
+    description: |
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
+    background: "--color-primary-light"
   info:
     title: "Info"
-      description: |
-        The info button is specifically for item cards where it will be placed below product images.
-      width: "12em"
+    description: |
+      The info button is specifically for item cards where it will be placed below product images.
+    width: "12em"
   light:
     title: "Light"
-      description: |
-        The light button is specifically for promotional items, where it will be placed on the left side of the "product info" button.
-      background: "--color-primary-light"
+    description: |
+      The light button is specifically for promotional items, where it will be placed on the left side of the "product info" button.
+    background: "--color-primary-light"
   cart:
     title: "Cart"
-      description: |
-        The cart button is specifically for item cards where it will be placed below product images and be placed on the right side of the "info" cards as well as under the images inside of the product description card, below the price and quantity selectors.
-      width: "12em"
+    description: |
+      The cart button is specifically for item cards where it will be placed below product images and be placed on the right side of the "info" cards as well as under the images inside of the product description card, below the price and quantity selectors.
+    width: "12em"
   submit:
     title: "Submit"
-      description: |
-        The submit button is specifically for pages where it will be placed below the text feilds and checkout forms.
-      width: "12em"
+    description: |
+      The submit button is specifically for pages where it will be placed below the text feilds and checkout forms.
+    width: "12em"
   cancel:
     title: "Cancel"
-      description: |
-        The cancel button is a general button for use where any option to exit a page or section is necessary.
-      width: "12em"
+    description: |
+      The cancel button is a general button for use where any option to exit a page or section is necessary.
+    width: "12em"
   View-cart:
       title: " View Cart"
       description: |

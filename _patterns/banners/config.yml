@@ -5,9 +5,9 @@ title: "Banners"
 patterns:
   homepage-banner:
     title: "Homepage Banner"
-      description: |
-        This banner is used specifically for the homepage. This banner contains nearly all the information found on the homepage.
+    description: |
+      This banner is used specifically for the homepage. This banner contains nearly all the information found on the homepage.
   top-of-page-banner:
     title: "Top of Page Banner"
-      description: |
-        This banner is designed for the top of every page on the website, it contains all of the navigation for the website.
+    description: |
+      This banner is designed for the top of every page on the website, it contains all of the navigation for the website.

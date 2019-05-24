@@ -19,7 +19,7 @@ patterns:
     title: "breadcrumb prod page"
     description: |
       This breadcrumb is used to indicate that the user is on the "products" page
-  breadcrumb-prod-page-kit:
+  breadcrumb-prod-page-kits:
     title: "breadcrumb prod page kit"
     description: |
       This breadcrumb is used to indicate that the user is on the "product kit" page

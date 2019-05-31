@@ -1,3 +1,4 @@
+---
 # Privacy and cookie policy & Terms of use
 
 ## Privacy Policy
@@ -227,3 +228,4 @@ By continuing to access or use our Service after those revisions become effectiv
 If you have any questions about these Terms, please contact us.
 
 - By email: help@super-ecommerce.ca
+---

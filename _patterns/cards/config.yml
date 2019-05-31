@@ -9,3 +9,13 @@ patterns:
         data:
           source: "site.products[0]"
           type: Product
+product-card-details:
+  width: 400
+  description: |
+    The product card is used on the product listing page to display more information on each product.
+  fields:
+    - name: data
+      type: object
+      data:
+        source: "site.products[0]"
+        type: Product

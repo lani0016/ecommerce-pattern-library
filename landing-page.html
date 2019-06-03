@@ -17,37 +17,44 @@ layout: default
   </div>
 </header>
 
-<div class="grid">
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    {% pattern cards/product-card image="m.d.o-copy.jpg" header="Mom's day off kit" price="$50" %}
-  </div>
-  <div class="unit xs-1 s-1 m-1-2 l-1-2">
-    {% pattern cards/product-card image="spa-day" header="Spa Day kit" price="$50" %}
-  </div>
-</div>
+<ul class="skip-links">
+  <li><a href="#nav">Skip to navigation </a></li>
+  <li><a href="#main">Skip to main content</a></li>
+</ul>
 
-<div>
-  <table>
-    <thead>
-      <th>Quantity</th>
-      <th>Price/Each</th>
-      <th>Discount</th>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1-10</td>
-        <td>$30</td>
-        <td>%20</td>
-      </tr>
-      <tr>
-        <td>11-49</td>
-        <td>$20</td>
-        <td>%30</td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="">
-    Sign Up For our Newsletter!
-    {% pattern forms/email-input %}
+<main role="main" id="main">
+  <div class="grid">
+    <div class="unit xs-1 s-1 m-1-2 l-1-2">
+      {% pattern cards/product-card image="m.d.o-copy.jpg" header="Mom's day off kit" price="$50" %}
+    </div>
+    <div class="unit xs-1 s-1 m-1-2 l-1-2">
+      {% pattern cards/product-card image="spa-day" header="Spa Day kit" price="$50" %}
+    </div>
   </div>
-</div>
+
+  <div>
+    <table>
+      <thead>
+        <th>Quantity</th>
+        <th>Price/Each</th>
+        <th>Discount</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1-10</td>
+          <td>$30</td>
+          <td>%20</td>
+        </tr>
+        <tr>
+          <td>11-49</td>
+          <td>$20</td>
+          <td>%30</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="">
+      Sign Up For our Newsletter!
+      {% pattern forms/email-input %}
+    </div>
+  </div>
+</main>

@@ -4,7 +4,15 @@ highlight_nav: kits
 ---
 {% pattern banners/top-of-page-banner %}
 {% pattern secondary-nav/breadcrumb-prod-page-kits %}
-<h1>Product Details</h1>
-<div class="island">
-  {% pattern cards/product-card-details data=Product %}
-</div>
+
+<ul class="skip-links">
+  <li><a href="#nav">Skip to navigation </a></li>
+  <li><a href="#main">Skip to main content</a></li>
+</ul>
+
+<main role="main" id="main">
+  <h1>Product Details</h1>
+  <div class="island">
+    {% pattern cards/product-card-details data=Product %}
+  </div>
+</main>

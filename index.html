@@ -3,5 +3,13 @@ layout: default
 highlight_nav: home
 ---
 
+<ul class="skip-links">
+  <li><a href="#nav">Skip to navigation </a></li>
+  <li><a href="#main">Skip to main content</a></li>
+</ul>
+
 {% pattern banners/top-of-page-banner %}
-{% pattern banners/homepage-banner %}
+
+<main role="main" id="main">
+  {% pattern banners/homepage-banner %}
+</main>
